@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "836757969745",
+    "firebase_url": "https://flutter-5c4bf.firebaseio.com",
+    "project_id": "flutter-5c4bf",
+    "storage_bucket": "flutter-5c4bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836757969745:android:be1922e32c724967add170",
+        "android_client_info": {
+          "package_name": "com.letschat.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836757969745-ou2bufkj8iauol3ku13eu4ejebhdvf4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzZdhY1xSmqNTeNcLNn7DL41WtOCnJFeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836757969745-ou2bufkj8iauol3ku13eu4ejebhdvf4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
